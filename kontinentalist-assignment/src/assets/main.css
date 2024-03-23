@@ -1,0 +1,34 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem, 1rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: #ff5b28;
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    text-decoration: underline;
+    text-decoration-color: #ff845e;
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+    background-color: #faf7f5 !important;
+  }
+
+  #app {
+    padding: 0 2rem;
+  }
+}

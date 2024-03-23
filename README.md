@@ -4,7 +4,7 @@
 A simple stories list page fetching stories from the given API endpoint using Vue.js.
 
 Tries to mimics the look and feel of [Kontinentalist Stories Page](https://kontinentalist.com/stories)
-![screenshot](kontinentalist-assignment\image.png)
+![screenshot](kontinentalist-assignment/image.png)
 
 ## Setup
 ### 1. Clone the repo
@@ -57,4 +57,4 @@ My Workspace > Import > server\Kontinentalist OA.postman_collection.json
 Test the API endpoints using the collection on Postman
 
 
-![API endpoints](kontinentalist-assignment\image-1.png)
+![API endpoints](kontinentalist-assignment/image-1.png)
